@@ -1,0 +1,17 @@
+package com.training.project.dao;
+
+import java.util.List;
+
+import com.training.project.model.User;
+
+public interface UserDao {
+
+	void saveOrUpdate(User user);
+
+	User getUserById(int id);
+
+	List<User> getAllUsers();
+
+	void deleteUser(int id);
+
+}
