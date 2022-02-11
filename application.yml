@@ -1,6 +1,6 @@
 
 department:
-  name: javarndresearch
+  name: javaboom
 
 eureka:
   client:
