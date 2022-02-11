@@ -1,6 +1,6 @@
 
 department:
-  name: javarnd updates
+  name: javarndresearch
 
 eureka:
   client:
